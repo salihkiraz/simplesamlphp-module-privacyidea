@@ -1,10 +1,12 @@
 {
   "pagetitle": {
     "de": "Sichere Anmeldung",
-    "nl": "Veilig aanmelden"
+    "nl": "Veilig aanmelden",
+    "tr": "Güvenli bir şekilde oturum açın"
   },
   "pageheader": {
     "de": "Zwei-Faktor Anmeldung",
-    "nl": "Tweefactorauthenticatie"
+    "nl": "Tweefactorauthenticatie",
+    "tr": "İki faktörlü kimlik doğrulama"
   }
 }
